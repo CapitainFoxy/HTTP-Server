@@ -1,5 +1,7 @@
 # Server
 
+![kep](public/java-400.jpg)
+
 Hello! This is a simple HTTP Java server that I wrote out of boredom. If you want to try it, start the server and then use this command: 
 ```
 curl http://localhost:1111
