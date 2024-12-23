@@ -1,4 +1,4 @@
-# Server
+<h1 align="center">HTTP Server</h1>
 
 ![kep](public/java-400.jpg)
 
