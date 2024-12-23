@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'net.server'  
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter:2.5.7'
+    implementation 'org.springframework.boot:spring-boot-starter-logging'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+application {
+    mainClassName = 'net.server.Server'  
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
