@@ -4,3 +4,8 @@ Hello! This is a simple Java server that I wrote out of boredom. If you want to 
 ```
 curl http://localhost:1111
 ```
+
+You should get this message back:
+```
+Hello from the Server!
+```
