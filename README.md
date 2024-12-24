@@ -38,7 +38,3 @@ You should get this message back:
 ```
 HTTP/1.1 404 Not Found
 ```
-
-
-### Finish
-This is your default server! Enjoy this! ;)
