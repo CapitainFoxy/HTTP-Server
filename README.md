@@ -4,7 +4,7 @@
 
 Hello! This is a simple HTTP Java server that I wrote out of boredom. If you want to try it, start the server and then use this commands: 
 
-## 1
+## 1. command
 
 ```
 curl http://localhost:1111
@@ -16,7 +16,7 @@ Hello from the Server!
 ```
 
 
-## 2
+## 2. command
 
 ```
 curl http://localhost:1111/json
@@ -29,7 +29,7 @@ You should get this message back:
 ```
 
 
-## 3
+## 3. command
 ```
 curl http://localhost:1111/index.html
 ```
@@ -40,5 +40,5 @@ HTTP/1.1 404 Not Found
 ```
 
 
-
+### Finish
 This is your default server! Enjoy this! ;)
