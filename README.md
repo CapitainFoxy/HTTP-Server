@@ -3,6 +3,9 @@
 ![kep](public/java-400.jpg)
 
 Hello! This is a simple HTTP Java server that I wrote out of boredom. If you want to try it, start the server and then use this commands: 
+
+## 1
+
 ```
 curl http://localhost:1111
 ```
@@ -13,7 +16,7 @@ Hello from the Server!
 ```
 
 
-
+## 2
 
 ```
 curl http://localhost:1111/json
@@ -26,7 +29,7 @@ You should get this message back:
 ```
 
 
-
+## 3
 ```
 curl http://localhost:1111/index.html
 ```
